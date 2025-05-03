@@ -240,7 +240,7 @@ body {
   transform: translateY(-50%);
   font-size: 1.5rem; /* Ridotto per una freccia più piccola */
   cursor: pointer;
-  color: #333;
+  color: #19ff25c4;
   transition: transform 0.3s ease, color 0.3s ease; /* Aggiungi transizione per il colore */
   z-index: 10; /* Assicurati che le frecce siano sopra gli altri contenuti */
 }
