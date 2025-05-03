@@ -1,0 +1,35 @@
+[33mcommit 7d2963746c97c1e6eddbec4bf4a6072cb210dd8e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: younew558645 <younessennajjary@gmail.com>
+Date:   Sat May 3 02:11:01 2025 +0200
+
+    Primo commit del mio progetto
+
+[33mcommit 1666f1804f267599451bc1082b6c2c19a43a5dcf[m
+Author: younew558645 <younessennajjary@gmail.com>
+Date:   Thu May 1 17:19:07 2025 +0200
+
+    Aggiornamento delle pagine dei servizi: caldaie, condizionatori, elettricista, fabbro, idraulico
+
+[33mcommit f08d3344e6e023085d7e85b6822732937194456c[m
+Author: younew558645 <younessennajjary@gmail.com>
+Date:   Thu May 1 16:35:30 2025 +0200
+
+    Aggiunta icona personalizzata per i marker sulla mappa
+
+[33mcommit 325856ddf0c7ab225f6f86bac3ce874fc0a0ed95[m
+Author: younew558645 <younessennajjary@gmail.com>
+Date:   Thu May 1 16:23:55 2025 +0200
+
+    Correzione dei marker sulla mappa: nome città corretto
+
+[33mcommit a86b091da9798261936ca0c5ec68e6dda28684c4[m
+Author: younew558645 <younessennajjary@gmail.com>
+Date:   Thu May 1 16:02:11 2025 +0200
+
+    Eliminate le vecchie immagini e aggiunte quelle nuove
+
+[33mcommit 56b4fea6eff337f13d2a29b27c72ba8cfd48ddd9[m
+Author: younew558645 <younessennajjary@gmail.com>
+Date:   Thu May 1 12:34:07 2025 +0200
+
+    Caricamento dei file giusti per il sito
