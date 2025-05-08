@@ -4,21 +4,30 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="stylesheet" href="/assets/index-CGdELMpn.css">
+  <!-- CSS files -->
+  <link rel="stylesheet" href="/assets/index-CGdELMpn.css"> <!-- Ensure this path is correct -->
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
 </head>
 
 <body>
   <div id="root"></div>
-  <script type="module" src="/src/main.tsx"></script>
+  <script type="module" src="/src/main.tsx"></script> <!-- Ensure this is the correct path for your main.tsx -->
 
-  <!-- Icona hamburger (aggiungilo dove vuoi che appaia nel layout) -->
+  <!-- Hamburger Icon (add it where you want it to appear in the layout) -->
   <div class="hamburger-menu" onclick="toggleMenu()">
     <span class="hamburger-line"></span>
     <span class="hamburger-line"></span>
     <span class="hamburger-line"></span>
   </div>
+
+  <!-- JavaScript to toggle the hamburger menu -->
+  <script>
+    function toggleMenu() {
+      const menu = document.querySelector('.hamburger-menu');
+      menu.classList.toggle('open'); // Toggle a class 'open' to show or hide the menu (you can customize this)
+    }
+  </script>
 </body>
 
 </html>
