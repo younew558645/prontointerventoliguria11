@@ -240,13 +240,13 @@ body {
   transform: translateY(-50%);
   font-size: 1.5rem; /* Ridotto per una freccia più piccola */
   cursor: pointer;
-  color: #19ff25c4;
+  color: #333;
   transition: transform 0.3s ease, color 0.3s ease; /* Aggiungi transizione per il colore */
   z-index: 10; /* Assicurati che le frecce siano sopra gli altri contenuti */
 }
 
 .arrow:hover {
-  color: #1ca12700; /* Cambia colore al passaggio del mouse */
+  color: #00af2c; /* Cambia colore al passaggio del mouse */
   transform: translateY(-50%) scale(1.2); /* Aggiungi un effetto di ingrandimento al passaggio del mouse */
 }
 
