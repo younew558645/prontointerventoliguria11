@@ -34,7 +34,7 @@ const Footer: React.FC = () => {
             <ul className="space-y-2">
               <li className="flex items-center">
                 <span className="text-primary mr-2">✆</span>
-                <a href="tel:3770943352" className="text-gray-300 hover:text-primary">377 094 3352</a>
+                <a href="tel:3770943352" className="text-gray-300 hover:text-primary">+393770943352</a>
               </li>
               <li className="flex items-center">
                 <span className="text-primary mr-2">✉</span>
