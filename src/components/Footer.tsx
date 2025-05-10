@@ -34,6 +34,8 @@ const Footer: React.FC = () => {
               <li className="flex items-center">
                 <span className="text-primary mr-2">✉</span>
                 <a href="mailto:info@prontointerventoliguria.it" className="text-gray-300 hover:text-primary">info@prontointerventoliguria.it</a>
+                <br />
+                <a href="mailto:assistenza@prontointerventoliguria.it" className="text-gray-300 hover:text-primary">assistenza@prontointerventoliguria.it</a>
               </li>
             </ul>
           </div>
